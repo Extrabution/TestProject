@@ -1,0 +1,3 @@
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/cmake-build-debug/CMakeFiles/TestProject.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir

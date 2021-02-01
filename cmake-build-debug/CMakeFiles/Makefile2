@@ -93,12 +93,12 @@ clean: CMakeFiles/TestProject.dir/clean
 CMakeFiles/TestProject.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\Xtrabatya\Desktop\Innopolis ITP\CProjects\TestProject\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target TestProject"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\Xtrabatya\Desktop\Innopolis ITP\CProjects\TestProject\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target TestProject"
 .PHONY : CMakeFiles/TestProject.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/TestProject.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Xtrabatya\Desktop\Innopolis ITP\CProjects\TestProject\cmake-build-debug\CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Xtrabatya\Desktop\Innopolis ITP\CProjects\TestProject\cmake-build-debug\CMakeFiles" 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/TestProject.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\Xtrabatya\Desktop\Innopolis ITP\CProjects\TestProject\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/TestProject.dir/rule

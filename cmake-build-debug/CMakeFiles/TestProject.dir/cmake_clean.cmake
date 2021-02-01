@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/TestProject.dir/GitTestClass.cpp.obj"
   "CMakeFiles/TestProject.dir/main.cpp.obj"
   "TestProject.exe"
   "TestProject.exe.manifest"

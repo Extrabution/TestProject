@@ -142,6 +142,33 @@ TestProject/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/build
 .PHONY : TestProject/fast
 
+GitTestClass.obj: GitTestClass.cpp.obj
+
+.PHONY : GitTestClass.obj
+
+# target to build an object file
+GitTestClass.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/GitTestClass.cpp.obj
+.PHONY : GitTestClass.cpp.obj
+
+GitTestClass.i: GitTestClass.cpp.i
+
+.PHONY : GitTestClass.i
+
+# target to preprocess a source file
+GitTestClass.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/GitTestClass.cpp.i
+.PHONY : GitTestClass.cpp.i
+
+GitTestClass.s: GitTestClass.cpp.s
+
+.PHONY : GitTestClass.s
+
+# target to generate assembly for a file
+GitTestClass.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\TestProject.dir\build.make CMakeFiles/TestProject.dir/GitTestClass.cpp.s
+.PHONY : GitTestClass.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -178,6 +205,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... TestProject
+	@echo ... GitTestClass.obj
+	@echo ... GitTestClass.i
+	@echo ... GitTestClass.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

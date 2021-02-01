@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/GitTestClass.cpp">
+			<Option target="TestProject"/>
+		</Unit>
+		<Unit filename="C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/GitTestClass.h">
+			<Option target="TestProject"/>
+		</Unit>
 		<Unit filename="C:/Users/Xtrabatya/Desktop/Innopolis ITP/CProjects/TestProject/main.cpp">
 			<Option target="TestProject"/>
 		</Unit>
